@@ -25,6 +25,10 @@
     "fd"
   ],
   "license": "MIT",
+  "engines": {
+    
+    "node": "14.17.0"
+  },
   "name": "destroy",
   "repository": {
     "type": "git",

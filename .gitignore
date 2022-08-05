@@ -170,3 +170,9 @@ Training
 Blog
 About
 You have no unread notifications
+
+
+/node_modules
+npm-debug.log
+.DS_Store
+/*.env
